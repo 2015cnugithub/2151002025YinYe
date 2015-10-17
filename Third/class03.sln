@@ -9,12 +9,15 @@ Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
 		Release|Win32 = Release|Win32
+		yying2xp|Win32 = yying2xp|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{AA22377E-2EF2-458D-99A6-5A803EF3193C}.Debug|Win32.ActiveCfg = Debug|Win32
 		{AA22377E-2EF2-458D-99A6-5A803EF3193C}.Debug|Win32.Build.0 = Debug|Win32
 		{AA22377E-2EF2-458D-99A6-5A803EF3193C}.Release|Win32.ActiveCfg = Release|Win32
 		{AA22377E-2EF2-458D-99A6-5A803EF3193C}.Release|Win32.Build.0 = Release|Win32
+		{AA22377E-2EF2-458D-99A6-5A803EF3193C}.yying2xp|Win32.ActiveCfg = yying2xp|Win32
+		{AA22377E-2EF2-458D-99A6-5A803EF3193C}.yying2xp|Win32.Build.0 = yying2xp|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

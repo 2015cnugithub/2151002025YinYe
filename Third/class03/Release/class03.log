@@ -1,0 +1,22 @@
+﻿生成启动时间为 2015/10/17 17:38:19。
+     1>项目“F:\OOP\2151002025YinYe\Third\class03\class03.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\class03.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\class03.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt class03.cpp
+         class03.cpp
+     1>class03.cpp(58): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>class03.cpp(60): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>class03.cpp(76): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>class03.cpp(78): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+       Link:
+         C:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\OOP\2151002025YinYe\Third\Release\class03.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\OOP\2151002025YinYe\Third\Release\class03.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\OOP\2151002025YinYe\Third\Release\class03.lib" /MACHINE:X86 /SAFESEH Release\class03.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         class03.vcxproj -> F:\OOP\2151002025YinYe\Third\Release\class03.exe
+     1>已完成生成项目“F:\OOP\2151002025YinYe\Third\class03\class03.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.06
