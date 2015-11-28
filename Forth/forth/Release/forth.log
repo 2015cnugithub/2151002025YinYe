@@ -1,0 +1,61 @@
+﻿生成启动时间为 2015/11/25 12:53:57。
+     1>项目“F:\OneDrive\OOP\forth\forth\forth.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\forth.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt forth.cpp
+         forth.cpp
+     1>forth.cpp(40): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>forth.cpp(42): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>forth.cpp(56): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>forth.cpp(159): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>forth.cpp(159): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>forth.cpp(161): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>forth.cpp(163): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>forth.cpp(163): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>forth.cpp(165): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>forth.cpp(168): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>forth.cpp(171): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>forth.cpp(171): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>forth.cpp(194): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>forth.cpp(194): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>forth.cpp(196): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>forth.cpp(198): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>forth.cpp(198): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>forth.cpp(200): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>forth.cpp(203): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>forth.cpp(206): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>forth.cpp(206): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>forth.cpp(240): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>forth.cpp(242): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>forth.cpp(244): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>forth.cpp(246): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>forth.cpp(246): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>forth.cpp(248): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>forth.cpp(248): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>forth.cpp(250): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>forth.cpp(250): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>forth.cpp(252): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>forth.cpp(277): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>forth.cpp(279): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>forth.cpp(281): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>forth.cpp(283): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>forth.cpp(283): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>forth.cpp(285): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>forth.cpp(285): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>forth.cpp(287): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>forth.cpp(287): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>forth.cpp(289): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>forth.cpp(321): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>forth.cpp(322): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+       Link:
+         C:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\OneDrive\OOP\forth\Release\forth.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"F:\OneDrive\OOP\forth\Release\forth.pdb" /SUBSYSTEM:CONSOLE,"5.01" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\OneDrive\OOP\forth\Release\forth.lib" /MACHINE:X86 /SAFESEH Release\classes.obj
+         Release\forth.obj
+         Release\mylist.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         forth.vcxproj -> F:\OneDrive\OOP\forth\Release\forth.exe
+     1>已完成生成项目“F:\OneDrive\OOP\forth\forth\forth.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.96
