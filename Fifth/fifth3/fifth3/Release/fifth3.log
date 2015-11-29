@@ -1,0 +1,42 @@
+﻿生成启动时间为 2015/11/26 20:37:09。
+     1>项目“D:\Users\yying\OneDrive\OOP\fifth3\fifth3\fifth3.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\fifth3.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\fifth3.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ChildView.cpp fifth3.cpp MainDlg.cpp MainFrm.cpp
+         ChildView.cpp
+         fifth3.cpp
+         MainDlg.cpp
+     1>MainDlg.cpp(77): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>MainDlg.cpp(78): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>MainDlg.cpp(79): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>MainDlg.cpp(91): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>MainDlg.cpp(98): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>MainDlg.cpp(99): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>MainDlg.cpp(100): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>MainDlg.cpp(112): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>MainDlg.cpp(119): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>MainDlg.cpp(120): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>MainDlg.cpp(121): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>MainDlg.cpp(133): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>MainDlg.cpp(153): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>MainDlg.cpp(154): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>MainDlg.cpp(155): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+         MainFrm.cpp
+       ResourceCompile:
+         D:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\bin\rc.exe /D NDEBUG /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /l"0x0804" /IRelease\ /nologo /fo"Release\fifth3.res" fifth3.rc 
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\yying\OneDrive\OOP\fifth3\Release\fifth3.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\Users\yying\OneDrive\OOP\fifth3\Release\fifth3.pdb" /SUBSYSTEM:WINDOWS,"5.01" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\yying\OneDrive\OOP\fifth3\Release\fifth3.lib" /MACHINE:X86 /SAFESEH Release\fifth3.res
+         Release\ChildView.obj
+         Release\fifth3.obj
+         Release\MainDlg.obj
+         Release\MainFrm.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         fifth3.vcxproj -> D:\Users\yying\OneDrive\OOP\fifth3\Release\fifth3.exe
+     1>已完成生成项目“D:\Users\yying\OneDrive\OOP\fifth3\fifth3\fifth3.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:15.26
