@@ -136,12 +136,14 @@ BOOL CMainDlg::PreTranslateMessage(MSG* pMsg)
 	if (pMsg->message == WM_LBUTTONDOWN)//左键按下  
 	{
 		int dx, dy, dd;
+		CRect rc;
+		GetWindowRect(&rc);//GetParent()->top = 202 left = 368
 		CPoint pt;
-		GetCursorPos(&pt);
-		if (pt.x > 985 && pt.y > 400)
+		GetCursorPos(&pt);//x709 y245
+		if (pt.x - rc.left > 341 && pt.y - rc.top > 43)
 		{
-			dx = abs(pt.x - 985);
-			dy = abs(pt.y - 400);
+			dx = abs(pt.x - 709);
+			dy = abs(pt.y - 245);
 			dd = max(dx, dy);
 			CStatic* pWnd = (CStatic*)GetDlgItem(IDC_Sphere_STATIC); // 得到 Picture Control 句柄
 			pWnd->ModifyStyle(0, SS_BITMAP); // 修改它的属性为位图
